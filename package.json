@@ -1,0 +1,25 @@
+{
+  "name": "ballpen-webpack-template",
+  "version": "0.1.0",
+  "description": "Ballpen.js official scaffolding template.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ballpenjs/ballpen-webpack-template.git"
+  },
+  "keywords": [
+    "ballpen",
+    "webpack2",
+    "template",
+    "scaffolding"
+  ],
+  "author": "YHSPY",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ballpenjs/ballpen-webpack-template/issues"
+  },
+  "homepage": "https://github.com/Ballpenjs/ballpen-webpack-template#readme"
+}
